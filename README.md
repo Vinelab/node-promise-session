@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/Vinelab/node-promse-session.svg?branch=master)](https://travis-ci.org/Vinelab/node-promse-session)
+[![Dependency Status](http://www.versioneye.com/user/projects/53f468275caaaaf5aa00002d/badge.svg?style=flat)](http://www.versioneye.com/user/projects/53f468275caaaaf5aa00002d)
+
 # Promise Session
 
 A session mananger for Nodejs that uses Redis as an underlying store and supports namespaced sessions.
