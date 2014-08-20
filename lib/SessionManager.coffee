@@ -3,7 +3,7 @@
 redis = require 'redis'
 extend = require 'extend'
 Session = require('./Session').klass
-SessionNamespace = require('./HashSession').klass
+SessionNamespace = require('./SessionNamespace').klass
 
 class SessionManager
 
