@@ -72,7 +72,7 @@ class SessionNamespace
             result = result.pop() if typeof key is 'string'
             # Attempt to parse the results as we stringified them.
             try
-                result = JSON.parse(result)._v
+                result = JSON.parse(result)
             catch e
                 result = result
 
