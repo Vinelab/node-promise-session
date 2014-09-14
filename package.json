@@ -1,6 +1,6 @@
 {
   "name": "promise-session",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "A promise-based session manager",
   "main": "./lib/SessionManager.js",
   "scripts": {
